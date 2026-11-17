@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmedBegggaUA
 - 👀 I’m interested in Machine Learning and Graph Neural Networks
 - 🌱 I’m currently learning Graph Neural Network
-- 📫 How to reach me ahmedbegga@gmail.com
 
 <!---
 AhmedBegggaUA/AhmedBegggaUA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
